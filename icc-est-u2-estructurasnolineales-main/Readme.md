@@ -22,23 +22,5 @@ En esta actividad implementé y manipulé un Árbol Binario de Búsqueda (BST) e
 * Ejercicio2.java (Inversión Espejo): Programé una función recursiva que realiza un intercambio (swap) de los hijos izquierdo y derecho en cada nodo, logrando voltear el árbol por completo como un espejo.
 
 
-## ESTRUCTURA DE LAS CARPETAS
-
-El proyecto lo tengo ordenado dentro de la carpeta src/structures con los siguientes paquetes:
-
-src/
-└── structures/
-    ├── models/
-    │   └── Person.java       # Mi clase modelo Person
-    ├── node/
-    │   └── Node.java         # Mi clase para el Nodo genérico
-    ├── trees/
-    │   ├── BinaryTree.java   # Lógica base y cálculo de altura del árbol
-    │   ├── Ejercicio1.java   # Inserción por arreglo y método de impresión visual
-    │   └── Ejercicio2.java   # Mi método recursivo para invertir el árbol (Espejo)
-    └── App.java              # Mi clase principal con los métodos de ejecución
-
----
-
 ## RESULTADOS OBTENIDOS EN CONSOLA
 ![alt text](bin/image.png)
